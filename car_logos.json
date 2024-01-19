@@ -2577,7 +2577,7 @@
     "name": "Lamborghini",
     "slug": "lamborghini",
     "image": {
-      "source": "https://www.carlogos.org/car-logos/lamborghini-logo-1000x1100-show.png",
+      "source": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/thumb/lamborghini.png",
       "thumb": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/thumb/lamborghini.png",
       "optimized": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/lamborghini.png",
       "original": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/original/lamborghini.png",
