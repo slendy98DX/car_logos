@@ -2044,7 +2044,7 @@
     "name": "Honda",
     "slug": "honda",
     "image": {
-      "source": "https://www.carlogos.org/car-logos/honda-logo-1700x1150-show.png",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/12/Honda_Canada.webp",
       "thumb": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/thumb/honda.png",
       "optimized": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/honda.png",
       "original": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/original/honda.png",
@@ -3565,7 +3565,7 @@
     "name": "Porsche",
     "slug": "porsche",
     "image": {
-      "source": "https://www.carlogos.org/car-logos/porsche-logo-2100x1100-show.png",
+      "source": "https://upload.wikimedia.org/wikipedia/it/a/a1/Logo_della_Porsche.svg",
       "thumb": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/thumb/porsche.png",
       "optimized": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/porsche.png",
       "original": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/original/porsche.png",
@@ -4267,7 +4267,7 @@
     "name": "Tesla",
     "slug": "tesla",
     "image": {
-      "source": "https://www.carlogos.org/car-logos/tesla-logo-2200x2800-show.png",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Tesla_Motors.svg",
       "thumb": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/thumb/tesla.png",
       "optimized": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/tesla.png",
       "original": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/original/tesla.png",
@@ -4319,7 +4319,7 @@
     "name": "Toyota",
     "slug": "toyota",
     "image": {
-      "source": "https://www.carlogos.org/car-logos/toyota-logo-2019-3700x1200-show.png",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Toyota.svg",
       "thumb": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/thumb/toyota.png",
       "optimized": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/toyota.png",
       "original": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/original/toyota.png",
